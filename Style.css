@@ -1,0 +1,28 @@
+ul li {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+#img{
+    margin-left: 25%;
+}
+.checked{
+    color: rgb(224, 171, 92);
+}
+#col{
+    column-count: 2;
+}
+button{
+    padding: 0% 33%;
+    background-color: rgb(219, 134, 24);
+    color: aliceblue;
+}
+li{
+    justify-content: center;
+}
+#all{
+   width: 35%;
+   margin:5%;
+   border: 2px solid balck;
+
+}
